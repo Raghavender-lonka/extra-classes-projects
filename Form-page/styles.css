@@ -1,0 +1,29 @@
+body {
+  background-color: rgba(106, 195, 250, 0.693);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: monospace;
+}
+
+input {
+  font-family: inherit;
+}
+
+main {
+  /* background-color: antiquewhite; */
+  width: fit-content;
+  /* padding: 1%; */
+}
+
+#form {
+  background-color: antiquewhite;
+  padding: 3%;
+  border-radius: 5px;
+}
+
+button {
+  width: 100%;
+  padding: 1% 0;
+  background-color: rgba(106, 195, 250, 0.693);
+}
